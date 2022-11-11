@@ -2,7 +2,7 @@
 <h3 align="center">MM-NIT ROURKELA</h3>
 - 🎓 I’m an Undergrad at **NATIONAL INSTITUTE OF TECHNOLOGY ROURKELA**
 
-- 💻 I’m a ANALYTICS **at [GA] , [GPL] NIT ROURKELA**
+- 💻 I’m Learning ANALYTICS **at [GA]  NIT ROURKELA**
 
 - 🌱 I’m currently learning **SQL**
 <h3 align="left">Connect with me:</h3>
